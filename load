@@ -1,0 +1,6 @@
+#!/bin/sh
+
+sudo modprobe mtd
+sudo insmod mtdsim.ko
+
+
